@@ -1,0 +1,5 @@
+discord.py>=2.5
+python-dotenv
+openpyxl
+rapidfuzz
+google-genai

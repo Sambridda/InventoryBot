@@ -1,10 +1,3 @@
-"""
-Import MEPL Inventory Tracker.xlsx (or any sheet with matching headers)
-into the bot's SQLite database.
-
-Usage:
-    python import_excel.py "MEPL Inventory Tracker.xlsx"
-
 Maps:
     SKU             -> name
     Product Name    -> specifications

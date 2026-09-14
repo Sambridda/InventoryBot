@@ -26,8 +26,8 @@ DUP_THRESHOLD = 85
 PAGE_SIZE = 10
 MAX_PDF_BYTES = 2 * 1024 * 1024
 
-LOCATIONS = ["HQ", "Birgunj", "Warehouse"]
-LOCATION_ABBR = {"HQ": "HQ", "Birgunj": "BIR", "Warehouse": "WH"}
+LOCATIONS = ["HQ", "Office", "Warehouse"]
+LOCATION_ABBR = {"HQ": "HQ", "Office": "Off", "Warehouse": "WH"}
 DESIGNATIONS = ["Mechanical", "Electrical", "Plumbing", "Civil", "Consumable", "Other"]
 CURRENCY_CHOICES = ["NPR", "USD", "INR", "EUR", "GBP", "CNY", "JPY"]
 
